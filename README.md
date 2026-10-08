@@ -321,11 +321,9 @@ This dashboard supports marketing teams by enabling them to:
 
 ### Meta Ad Performance Overview
 
-![Meta Ad Performance Dashboard](images/meta-ad-performance-overview.png)
+![Meta Ad Performance Dashboard_Facebook](https://github.com/koushikdutta495-web/Meat-Dashboard/blob/main/Screenshot%202026-10-08%20211142.png)
+![Meta Ad Performance Dashboard_Instagram](https://github.com/koushikdutta495-web/Meat-Dashboard/blob/main/Screenshot%202026-10-08%20211157.png)
 
-### Campaign Performance Analysis
-
-![Meta Ad Campaign Analysis](images/meta-ad-performance-analysis.png)
 
 ---
 
